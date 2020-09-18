@@ -1,5 +1,5 @@
 # ScreenTransferFromEmulatorToPhone
-This is a test project. Here I've sent screen shot from andorid emulator to android phone using linux as a proxy.
+This is a test project. Here I've sent screenshot from andorid emulator to android phone using linux as a proxy.
 
 1.	Connect android mobile and linux machine in the same network.
 2.  Start emulator in linux machine.
